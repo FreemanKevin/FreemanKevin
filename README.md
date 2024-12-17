@@ -1,4 +1,4 @@
-## [![Hi, there! ](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi,+there! )](#)
+## Hi, there! 👋
 
 <a href="https://github.com/freemankevin">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=freemankevin&bg_color=30,e96443,904e95&text_color=fff&icon_color=fff&title_color=fff&line_height=26&hide_border=true&show_icons=true" />
