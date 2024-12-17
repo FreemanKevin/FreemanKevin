@@ -1,4 +1,6 @@
-## Hi, there! 👋
+### Welcome 👋
+![](https://img.shields.io/badge/release-v1.0.0--beta-blue)
+![](https://img.shields.io/badge/cool-yes-magenta)
 
 <a href="https://github.com/freemankevin">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=freemankevin&bg_color=30,e96443,904e95&text_color=fff&icon_color=fff&title_color=fff&line_height=26&hide_border=true&show_icons=true" />
