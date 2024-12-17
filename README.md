@@ -1,4 +1,6 @@
-### Welcome 👋
+### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/94526ad4-bdb4-4f3f-bb08-fddcb1349fa2.svg)](https://wakatime.com/@94526ad4-bdb4-4f3f-bb08-fddcb1349fa2)
+[![github](https://img.shields.io/github/followers/FreemanKevin?logo=github&style=plastic)](https://github.com/FreemanKevin?tab=followers)
 ![](https://img.shields.io/badge/release-v1.0.0--beta-blue)
 ![](https://img.shields.io/badge/cool-yes-magenta)
 
