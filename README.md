@@ -11,8 +11,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freemankevin&layout=compact&bg_color=30,e96443,904e95&text_color=fff&icon_color=fff&title_color=fff&hide_border=true&langs_count=4" />
 </a>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreemanKevin/FreemanKevin/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FreemanKevin/FreemanKevin/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FreemanKevin/FreemanKevin/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
